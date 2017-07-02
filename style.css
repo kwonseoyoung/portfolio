@@ -1,3 +1,58 @@
-h1 {
-	color: violet;
+
+
+.title {
+  text-align: center;
+}
+.MenuBar {
+  float: middle;
+  background-color: MediumPurple;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 20px; 
+  text-align: center;
+  /*max-width: 800px;*/
+  position: relative;
+}
+
+img.self-por {
+  display: block; 
+  margin-left: auto;
+  margin-right: auto;
+  text-align: middle;
+  float: middle;
+  padding: 10px;
+}
+
+p.intro {
+  font-size: 15px;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+div.hobbies {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em
+}
+
+div.bottom-part {
+  padding: 10px;
+}
+
+a {
+  color: white;
+  text-decoration: None;
+}
+
+a:hover {
+  color: blue;
+  text-decoration: none;
+}
+
+a.fb-button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%
 }
